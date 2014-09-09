@@ -8,7 +8,7 @@ Installation & usage notes
 To install, simply clone this repository into the plugin directory of your WordPress installation.
 
 ~~~
-git clone https://github.com/davideparisi/wp-mendeleyplugin
+git clone https://github.com/collab-uniba/wp-mendeleyplugin
 ~~~
 
 After completing installation, go to `Settings>Mendeley Settings` to configure it.
